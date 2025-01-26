@@ -1,3 +1,6 @@
 [submodule "GetOpt"]
 	path = GetOpt
 	url = https://github.com/madsen/free-getopt.git
+[submodule "submodules/shellcmd.py"]
+	path = submodules/shellcmd.py
+	url = https://github.com/tom-seddon/shellcmd.py
